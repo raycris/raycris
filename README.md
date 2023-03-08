@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raycris Maldonado</h1>
+<h1 align="center">👋 Hi there, I'm Raycris Maldonado</h1>
 <h3 align="center">I'm Software Engineer from Instituto Tecnológico de Santo Domingo. I'm a frontend developer with experience with HTML, CSS, Sass, Framework,  React native, React js, JavaScripts, Styled-components. My hobbies are watch football soccer, baseball, basketball and play video games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raycris&label=Profile%20views&color=0e75b6&style=flat" alt="raycris" /> </p>
